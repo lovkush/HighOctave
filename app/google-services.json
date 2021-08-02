@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "907257627738",
+    "firebase_url": "https://highoctaveacademy-5ef38-default-rtdb.firebaseio.com",
+    "project_id": "highoctaveacademy-5ef38",
+    "storage_bucket": "highoctaveacademy-5ef38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907257627738:android:359f5f7aec8936b952c463",
+        "android_client_info": {
+          "package_name": "com.academy.octave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907257627738-53eu50c409bd5g3bphn6vvei8dq6eumo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGJLq6A0Nw4MH648nXp507axN2raBFyQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907257627738-53eu50c409bd5g3bphn6vvei8dq6eumo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907257627738:android:005883886e06ba2b52c463",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907257627738-53eu50c409bd5g3bphn6vvei8dq6eumo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGJLq6A0Nw4MH648nXp507axN2raBFyQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907257627738-53eu50c409bd5g3bphn6vvei8dq6eumo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

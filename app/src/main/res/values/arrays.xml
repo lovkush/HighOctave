@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name= "AndhraPradesh">
+        <item>Guntur</item>
+        <item>  Amravati</item>
+        <item>  Kakinada</item>
+        <item>  Kurnool</item>
+        <item>  Nellore</item>
+        <item>  Rajahmundry</item>
+        <item>  Tirupati</item>
+        <item>  Vijayawada</item>
+        <item>  Vishakhapatnam</item>
+    </array>
+    
+    <array name="Assam">
+        <item>Guwahati</item>
+    </array>
+
+    <array name="Bihar">
+        <item>Patna</item>
+    </array>
+
+    <array name="Goa">
+        <item>Goa</item>
+    </array>
+
+    <array name="Delhi">
+        <item>Delhi</item>
+    </array>
+
+    <array name="Chhattisgarh">
+        <item>Bhilai</item>
+        <item>Bilaspur</item>
+        <item> Raipur</item>
+    </array>
+
+    <array name="Gujarat">
+        <item>Jamnagar</item>
+        <item>Rajkot</item>
+        <item>Vadodara</item>
+        <item>Ahmedabad</item>
+        <item>Bhavnagar</item>
+        <item>Surat</item>
+    </array>
+
+    <array name="Haryana">
+        <item>Gurgaon</item>
+        <item>Chandigarh</item>
+        <item>Faridabad</item>
+    </array>
+
+    <array name="HimachalPradesh">
+        <item>Hamirpur</item>
+        <item>Shimla</item>
+    </array>
+
+
+    <array name="Jharkhand">
+        <item>Bokaro Steel City</item>
+        <item>Dhanbad</item>
+        <item>Jamshedpur</item>
+        <item>Ranchi</item>
+    </array>
+
+    <array name="Karanatka">
+        <item>Belgaum</item>
+        <item>Bangalore</item>
+        <item>Bijapur</item>
+        <item>Gulbarga</item>
+        <item>Hubli–Dharwad</item>
+        <item>Mangalore</item>
+        <item>Mysore</item>
+    </array>
+
+    <array name="Kerla">
+        <item>Kannur</item>
+        <item>Kollam</item>
+        <item>Kottayam</item>
+        <item>Kozhikode</item>
+        <item>Malappuram</item>
+        <item>Palakkad</item>
+        <item>Perinthalmanna</item>
+        <item>Thiruvananthapuram</item>
+        <item>Thrissur</item>
+        <item>Tirur</item>
+        <item>Kochi</item>
+    </array>
+
+    <array name="MadhyaPradesh">
+        <item>Bhopal</item>
+        <item>Gwaliar</item>
+        <item>Indore</item>
+        <item>Jabalpur</item>
+        <item>Ujjain</item>
+    </array>
+
+    <array name="Maharashtra">
+        <item>Aurangabad</item>
+        <item>Bhiwandi</item>
+        <item>Kolhapur</item>
+        <item>Mumbai</item>
+        <item>Nagpur</item>
+        <item>Nanded</item>
+        <item>Nashik</item>
+        <item>Pune</item>
+        <item>Sangli</item>
+        <item>Solapur</item>
+        <item>Vasai-Virar City</item>
+    </array>
+
+    <array name="Odisha">
+        <item>Bhubaneswar</item>
+        <item>Cuttack</item>
+        <item>Rourkela</item>
+    </array>
+
+    <array name="Punjab">
+        <item>Amritsar</item>
+        <item>Chandigarh</item>
+        <item>Jalandhar</item>
+        <item>Ludhiana</item>
+    </array>
+
+    <array name="Rajasthan">
+        <item>Ajmer</item>
+        <item>Bikaner</item>
+        <item>Jaipur</item>
+        <item>Jodhpur</item>
+        <item>Kota</item>
+    </array>
+
+    <array name="TamilNadu">
+        <item>Chennai</item>
+        <item>Madurai</item>
+        <item>Pondicherry</item>
+        <item>Salem</item>
+        <item>Tiruchirappalli</item>
+        <item>Tirunelveli</item>
+        <item>Tiruppur</item>
+        <item>Tiruvannamalai</item>
+        <item>Vellore</item>
+        <item>Erode</item>
+    </array>
+
+
+    <array name="Telangana">
+        <item>Hyderabad</item>
+        <item>Warangal</item>
+    </array>
+
+
+    <array name="UttarPradesh">
+        <item>Allahabad</item>
+        <item>Firozabad</item>
+        <item>Ghaziabad</item>
+        <item>Gorakhpur</item>
+        <item>Jhansi</item>
+        <item>Kanpur</item>
+        <item>Lucknow</item>
+        <item>Mathura</item>
+        <item>Meerut</item>
+        <item>Moradabad</item>
+        <item>Noida</item>
+        <item>Varanasi</item>
+        <item>Agra</item>
+        <item>Aligarh</item>
+        <item>Bareilly</item>
+    </array>
+
+
+    <array name="Uttrakhand">
+        <item>Dehradun</item>
+    </array>
+
+
+    <array name="WestBengal">
+        <item>Dehradun</item>
+        <item>Asansol</item>
+        <item>Kolkata</item>
+        <item>Purulia</item>
+        <item>Siliguri</item>
+        <item>Durgapur</item>
+    </array>
+
+    <array name="States">
+        <item>Andhra Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chhattisgarh</item>
+        <item>Delhi</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jharkhand</item>
+        <item>Karanatka</item>
+        <item>Kerla</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Odisha</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Uttar Pradesh</item>
+        <item>Uttrakhand</item>
+        <item>West Bengal</item>
+    </array>
+
+    <array name="Slots">
+        <item>10 am - 12 pm</item>
+        <item>11 am - 1 pm</item>
+        <item>12 pm - 2 pm</item>
+        <item>1 pm - 3 pm</item>
+        <item>2 pm - 4 pm</item>
+        <item>3 pm - 5 pm</item>
+        <item>4 pm - 6 pm</item>
+        <item>5 pm - 7 pm</item>
+        <item>6 pm - 8 pm</item>
+        <item>7 pm - 9 pm</item>
+        <item>8 pm - 10 pm</item>
+    </array>
+
+    <array name="Time_Slot">
+        <item>10:00 am</item>
+        <item>10:30 am</item>
+        <item>11:00 am</item>
+        <item>11:30 am</item>
+        <item>12:00 pm</item>
+        <item>12:30 pm</item>
+        <item>01:00 pm</item>
+        <item>01:30 pm</item>
+        <item>02:00 pm</item>
+        <item>02:30 pm</item>
+        <item>03:00 pm</item>
+        <item>03:30 pm</item>
+        <item>04:00 pm</item>
+        <item>04:30 pm</item>
+        <item>05:00 pm</item>
+        <item>05:30 pm</item>
+        <item>06:00 pm</item>
+        <item>06:30 pm</item>
+        <item>07:00 pm</item>
+        <item>07:30 pm</item>
+        <item>08:00 pm</item>
+        <item>08:30 pm</item>
+        <item>09:00 pm</item>
+        <item>09:30 pm</item>
+    </array>
+
+</resources>
