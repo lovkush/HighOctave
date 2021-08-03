@@ -23,8 +23,7 @@ class Home : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-        //Is User Logged I
-
+        //Is User Logged
 
         binding = ActivityHomeBinding.inflate(layoutInflater)
         setContentView(binding.root)
